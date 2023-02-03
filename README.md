@@ -5,17 +5,17 @@ I try to implement Deep AutoAugment in windows
 ### Install required packages
 
 1. Create anaconda virtual eviroment
-'''shell
+```shell
 conda create -n deepaa python=3.7.7
 conda activate deepaa
-'''
+```
 
 2. Install Tensorflow and PyTorch
-'''shell
+```shell
 pip install tensorflow-gpu==2.5
 conda install cudnn=8.1 cudatoolkit=11.2 -c conda-forge
 pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
-'''
+```
 
 3. Install other dependencies.
 ```shell
