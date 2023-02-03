@@ -14,7 +14,7 @@ colored
 pretrainedmodels
 tqdm
 tensorboardx
-scikit-learn
+sklearn
 matplotlib
 psutil
 requests
