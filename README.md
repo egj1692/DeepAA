@@ -1,6 +1,6 @@
 # DeepAA
 
-I try to implement Deep AutoAugment in windows
+I try to implement Deep AutoAugment in windows 10
 
 ### Install required packages
 
